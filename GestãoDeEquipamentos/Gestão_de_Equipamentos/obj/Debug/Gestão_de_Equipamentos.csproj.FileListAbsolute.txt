@@ -1,0 +1,7 @@
+C:\Users\thiag\source\repos\Gestão_de_Equipamentos\Gestão_de_Equipamentos\bin\Debug\Gestão_de_Equipamentos.exe.config
+C:\Users\thiag\source\repos\Gestão_de_Equipamentos\Gestão_de_Equipamentos\bin\Debug\Gestão_de_Equipamentos.exe
+C:\Users\thiag\source\repos\Gestão_de_Equipamentos\Gestão_de_Equipamentos\bin\Debug\Gestão_de_Equipamentos.pdb
+C:\Users\thiag\source\repos\Gestão_de_Equipamentos\Gestão_de_Equipamentos\obj\Debug\Gestão_de_Equipamentos.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\Gestão_de_Equipamentos\Gestão_de_Equipamentos\obj\Debug\Gestão_de_Equipamentos.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\Gestão_de_Equipamentos\Gestão_de_Equipamentos\obj\Debug\Gestão_de_Equipamentos.exe
+C:\Users\thiag\source\repos\Gestão_de_Equipamentos\Gestão_de_Equipamentos\obj\Debug\Gestão_de_Equipamentos.pdb
